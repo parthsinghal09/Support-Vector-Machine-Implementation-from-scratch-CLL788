@@ -1,1 +1,2 @@
-# Support-Vector-Machine-Implementation-from-scratch-CLL788
+# Support-Vector-Machine-(SVM)-Implementation-from-scratch
+
